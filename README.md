@@ -1,2 +1,2 @@
 # hello-world
-next.js 학습
+next.js 학습용 repository
